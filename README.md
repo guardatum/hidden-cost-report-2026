@@ -13,7 +13,7 @@ European data-protection law assumes that people are **informed** (by the privac
 
 > A well-written privacy policy is not evidence of privacy-respecting behaviour. It is evidence of a well-written privacy policy.
 
-**[Read the full report](report/Hidden%20Costs%20Report.pdf))**
+**[Read the full report](report/Hidden%20Costs%20Report.pdf)**
 
 This repository contains the observations, the derived data behind every figure, the full appendices, and a pointer to the open-source crawler that produced them. 
 
