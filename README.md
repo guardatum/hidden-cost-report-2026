@@ -1,4 +1,4 @@
-# The Hidden Cost of Free Browsing
+# The Hidden cost of free browsing
 **An independent audit of privacy policies versus observed behaviour across the 100 most-visited websites in Europe.**
 
 Weronika Nitecka and Dr. Estera Kot - September 2026
@@ -33,7 +33,7 @@ This repository contains the observations, the derived data behind every figure,
 
 ---
 
-## Methodology in brief
+## Methodology
 
 Each site was assessed **twice, independently**:
 
