@@ -1,0 +1,1426 @@
+{
+  "google.com": {
+    "overall": 6.21,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 4.0,
+      "storageLimitation": 5.0,
+      "integrity": 6.0,
+      "accountability": 4.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Google Pay"
+  },
+  "youtube.com": {
+    "overall": 6.0,
+    "principles": {
+      "lawfulness": 6.5,
+      "purposeLimitation": 6.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 5.5,
+      "storageLimitation": 6.0,
+      "integrity": 6.5,
+      "accountability": 5.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "YouTube Music"
+  },
+  "facebook.com": {
+    "overall": 5.86,
+    "principles": {
+      "lawfulness": 5.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 5.0,
+      "accuracy": 6.0,
+      "storageLimitation": 6.0,
+      "integrity": 6.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Facebook.com"
+  },
+  "instagram.com": {
+    "overall": 6.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 5.0,
+      "storageLimitation": 6.0,
+      "integrity": 8.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Instagram.com"
+  },
+  "whatsapp.com": {
+    "overall": 7.93,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 8.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "WhatsApp.com"
+  },
+  "netflix.com": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 8.5,
+      "storageLimitation": 7.5,
+      "integrity": 8.5,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Netflix.com"
+  },
+  "tiktok.com": {
+    "overall": 6.21,
+    "principles": {
+      "lawfulness": 5.5,
+      "purposeLimitation": 6.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 7.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 5.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "TikTok.com"
+  },
+  "linkedin.com": {
+    "overall": 7.0,
+    "principles": {
+      "lawfulness": 6.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 6.5,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "LinkedIn.com"
+  },
+  "spotify.com": {
+    "overall": 7.14,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Spotify.com"
+  },
+  "zalando.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Zalando.com"
+  },
+  "booking.com": {
+    "overall": 7.93,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 8.0,
+      "storageLimitation": 6.5,
+      "integrity": 7.5,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Booking.com"
+  },
+  "revolut.com": {
+    "overall": 7.93,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.5,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Revolut.com"
+  },
+  "skyscanner.com": {
+    "overall": 7.14,
+    "principles": {
+      "lawfulness": 7.0,
+      "purposeLimitation": 7.5,
+      "dataMinimisation": 6.5,
+      "accuracy": 8.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Skyscanner.com"
+  },
+  "bbc.com": {
+    "overall": 7.93,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 8.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.5,
+      "integrity": 7.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "BBC.com"
+  },
+  "airbnb.com": {
+    "overall": 6.93,
+    "principles": {
+      "lawfulness": 7.0,
+      "purposeLimitation": 6.5,
+      "dataMinimisation": 7.5,
+      "accuracy": 6.0,
+      "storageLimitation": 6.0,
+      "integrity": 8.0,
+      "accountability": 7.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Airbnb.com"
+  },
+  "discord.com": {
+    "overall": 7.36,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 8.0,
+      "storageLimitation": 6.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Discord.com"
+  },
+  "twitch.tv": {
+    "overall": 6.57,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 5.5,
+      "storageLimitation": 6.5,
+      "integrity": 7.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Twitch.tv"
+  },
+  "steampowered.com": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 6.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Steam"
+  },
+  "reddit.com": {
+    "overall": 6.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 5.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Reddit.com"
+  },
+  "tinder.com": {
+    "overall": 7.0,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 5.0,
+      "storageLimitation": 8.0,
+      "integrity": 7.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Tinder.com"
+  },
+  "n26.com": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "N26.com"
+  },
+  "uber.com": {
+    "overall": 8.86,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 8.0,
+      "storageLimitation": 9.0,
+      "integrity": 9.0,
+      "accountability": 10.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Uber Eats"
+  },
+  "hm.com": {
+    "overall": 8.29,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "H&M.com"
+  },
+  "zara.com": {
+    "overall": 6.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 5.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Zara.com"
+  },
+  "sephora.com": {
+    "overall": 7.79,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.5,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 8.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Sephora.com"
+  },
+  "deliveroo.co.uk": {
+    "overall": 7.93,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 8.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 6.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Deliveroo.co.uk"
+  },
+  "glovo.com": {
+    "overall": 7.64,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 8.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Glovo.com"
+  },
+  "blablacar.com": {
+    "overall": 7.29,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 5.0,
+      "storageLimitation": 9.0,
+      "integrity": 5.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "BlaBlaCar.com"
+  },
+  "x.com": {
+    "overall": 7.14,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 5.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Twitter/X.com"
+  },
+  "snapchat.com": {
+    "overall": 7.29,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Snapchat.com"
+  },
+  "telegram.org": {
+    "overall": 6.07,
+    "principles": {
+      "lawfulness": 6.0,
+      "purposeLimitation": 6.5,
+      "dataMinimisation": 7.0,
+      "accuracy": 5.0,
+      "storageLimitation": 6.0,
+      "integrity": 6.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Telegram.org"
+  },
+  "signal.org": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 10.0,
+      "accuracy": 8.0,
+      "storageLimitation": 8.0,
+      "integrity": 10.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Signal.org"
+  },
+  "asos.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "ASOS.com"
+  },
+  "shein.com": {
+    "overall": 7.21,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Shein.com"
+  },
+  "aboutyou.de": {
+    "overall": 8.07,
+    "principles": {
+      "lawfulness": 10.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 6.0,
+      "storageLimitation": 7.5,
+      "integrity": 7.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "About You"
+  },
+  "vinted.com": {
+    "overall": 7.21,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.0,
+      "storageLimitation": 6.5,
+      "integrity": 7.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Vinted.com"
+  },
+  "douglas.de": {
+    "overall": 7.0,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 8.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Douglas.de"
+  },
+  "notino.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 9.0,
+      "integrity": 8.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Notino.com"
+  },
+  "epicgames.com": {
+    "overall": 7.64,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 6.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Epic Games Store"
+  },
+  "playstation.com": {
+    "overall": 6.79,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 6.5,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 7.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "PlayStation Store"
+  },
+  "xbox.com": {
+    "overall": 8.07,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.5,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Xbox.com"
+  },
+  "nintendo.com": {
+    "overall": 8.0,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Nintendo.com"
+  },
+  "amazon.com": {
+    "overall": 7.5,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Amazon Prime Video"
+  },
+  "disneyplus.com": {
+    "overall": 7.79,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 7.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Disney+"
+  },
+  "apple.com": {
+    "overall": 8.79,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 9.0,
+      "accuracy": 8.0,
+      "storageLimitation": 8.5,
+      "integrity": 9.5,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Apple Pay"
+  },
+  "soundcloud.com": {
+    "overall": 6.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 6.0,
+      "storageLimitation": 5.0,
+      "integrity": 7.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "SoundCloud.com"
+  },
+  "wise.com": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 8.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 8.0,
+      "storageLimitation": 7.5,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Wise.com"
+  },
+  "klarna.com": {
+    "overall": 6.21,
+    "principles": {
+      "lawfulness": 6.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 5.5,
+      "storageLimitation": 6.0,
+      "integrity": 7.5,
+      "accountability": 5.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Klarna.com"
+  },
+  "stripe.com": {
+    "overall": 8.43,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.5,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Stripe.com"
+  },
+  "microsoft.com": {
+    "overall": 7.64,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 6.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Microsoft 365"
+  },
+  "slack.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.0,
+      "integrity": 9.0,
+      "accountability": 8.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Slack.com"
+  },
+  "notion.com": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Notion.com"
+  },
+  "trello.com": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Trello.com"
+  },
+  "asana.com": {
+    "overall": 7.0,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.5,
+      "dataMinimisation": 6.5,
+      "accuracy": 7.0,
+      "storageLimitation": 6.0,
+      "integrity": 6.5,
+      "accountability": 7.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Asana.com"
+  },
+  "just-eat.co.uk": {
+    "overall": 7.5,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 6.5,
+      "integrity": 8.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Just Eat"
+  },
+  "wolt.com": {
+    "overall": 7.86,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 8.0,
+      "accuracy": 5.0,
+      "storageLimitation": 8.5,
+      "integrity": 7.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Wolt.com"
+  },
+  "foodpanda.com": {
+    "overall": 7.0,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 6.0,
+      "integrity": 7.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Foodpanda"
+  },
+  "bumble.com": {
+    "overall": 8.57,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 9.0,
+      "accuracy": 7.5,
+      "storageLimitation": 8.5,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Bumble.com"
+  },
+  "hinge.co": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 5.0,
+      "storageLimitation": 7.0,
+      "integrity": 9.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Hinge"
+  },
+  "badoo.com": {
+    "overall": 6.93,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 6.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Badoo.com"
+  },
+  "bolt.eu": {
+    "overall": 8.43,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Bolt.eu"
+  },
+  "expedia.com": {
+    "overall": 6.79,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.5,
+      "storageLimitation": 6.5,
+      "integrity": 7.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Expedia.com"
+  },
+  "ryanair.com": {
+    "overall": 7.57,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 8.0,
+      "storageLimitation": 7.0,
+      "integrity": 9.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Ryanair.com"
+  },
+  "easyjet.com": {
+    "overall": 8.79,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 8.5,
+      "storageLimitation": 9.0,
+      "integrity": 8.5,
+      "accountability": 9.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "EasyJet.com"
+  },
+  "wikipedia.org": {
+    "overall": 6.86,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 5.5,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Wikipedia.org"
+  },
+  "theguardian.com": {
+    "overall": 8.14,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.5,
+      "accuracy": 8.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "The Guardian"
+  },
+  "euronews.com": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.5,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 8.0,
+      "integrity": 7.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Euronews.com"
+  },
+  "reuters.com": {
+    "overall": 8.07,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 8.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.5,
+      "integrity": 7.5,
+      "accountability": 9.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Reuters.com"
+  },
+  "coursera.org": {
+    "overall": 7.86,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.5,
+      "dataMinimisation": 8.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.0,
+      "integrity": 8.5,
+      "accountability": 7.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Coursera.org"
+  },
+  "udemy.com": {
+    "overall": 6.93,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 6.5,
+      "accuracy": 6.0,
+      "storageLimitation": 7.0,
+      "integrity": 7.5,
+      "accountability": 6.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Udemy.com"
+  },
+  "khanacademy.org": {
+    "overall": 8.29,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.5,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Khan Academy"
+  },
+  "edx.org": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.5,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.5,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "edX.org"
+  },
+  "futurelearn.com": {
+    "overall": 6.36,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 6.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 5.0,
+      "integrity": 7.0,
+      "accountability": 6.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "FutureLearn.com"
+  },
+  "duolingo.com": {
+    "overall": 6.43,
+    "principles": {
+      "lawfulness": 7.0,
+      "purposeLimitation": 6.5,
+      "dataMinimisation": 6.0,
+      "accuracy": 6.0,
+      "storageLimitation": 5.5,
+      "integrity": 7.0,
+      "accountability": 7.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Duolingo.com"
+  },
+  "strava.com": {
+    "overall": 8.43,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Strava.com"
+  },
+  "myfitnesspal.com": {
+    "overall": 6.71,
+    "principles": {
+      "lawfulness": 7.5,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 6.5,
+      "integrity": 6.0,
+      "accountability": 5.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "MyFitnessPal.com"
+  },
+  "headspace.com": {
+    "overall": 7.57,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.0,
+      "storageLimitation": 7.0,
+      "integrity": 9.0,
+      "accountability": 8.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Headspace.com"
+  },
+  "calm.com": {
+    "overall": 7.21,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 7.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 6.5,
+      "storageLimitation": 7.0,
+      "integrity": 6.5,
+      "accountability": 8.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Calm.com"
+  },
+  "yazio.com": {
+    "overall": 9.07,
+    "principles": {
+      "lawfulness": 9.5,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 9.0,
+      "accuracy": 8.0,
+      "storageLimitation": 9.0,
+      "integrity": 9.0,
+      "accountability": 10.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "YAZIO.com"
+  },
+  "allegro.pl": {
+    "overall": 8.0,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 7.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Allegro.pl"
+  },
+  "getyourguide.com": {
+    "overall": 8.29,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "GetYourGuide.com"
+  },
+  "meistertask.com": {
+    "overall": 8.5,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.5,
+      "accuracy": 7.0,
+      "storageLimitation": 8.5,
+      "integrity": 8.0,
+      "accountability": 9.5
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "MeisterTask.com"
+  },
+  "8fit.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "8fit.com"
+  },
+  "wire.com": {
+    "overall": 8.71,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 10.0,
+      "accountability": 10.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Wire.com"
+  },
+  "riotgames.com": {
+    "overall": 7.43,
+    "principles": {
+      "lawfulness": 7.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 6.0,
+      "accuracy": 7.0,
+      "storageLimitation": 6.5,
+      "integrity": 8.5,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Riot Games (EMEA)"
+  },
+  "gog.com": {
+    "overall": 8.07,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 6.5,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "GOG.com"
+  },
+  "ea.com": {
+    "overall": 7.71,
+    "principles": {
+      "lawfulness": 8.0,
+      "purposeLimitation": 8.0,
+      "dataMinimisation": 7.0,
+      "accuracy": 7.0,
+      "storageLimitation": 7.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Origin (EA)"
+  },
+  "ubisoft.com": {
+    "overall": 8.43,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 9.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Ubisoft Connect"
+  },
+  "techland.net": {
+    "overall": 8.29,
+    "principles": {
+      "lawfulness": 9.0,
+      "purposeLimitation": 9.0,
+      "dataMinimisation": 8.0,
+      "accuracy": 7.0,
+      "storageLimitation": 8.0,
+      "integrity": 8.0,
+      "accountability": 9.0
+    },
+    "reviewedBy": "Weronika Nitecka, Dr. Estera Kot",
+    "reviewedAt": "2026-07-19",
+    "source": "Top 100 EU websites manual GDPR review",
+    "siteName": "Techland Games"
+  }
+}

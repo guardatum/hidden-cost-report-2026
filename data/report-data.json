@@ -1,0 +1,1039 @@
+{
+  "generatedAt": "2026-07-21T16:39:42.600Z",
+  "provenance": {
+    "crawlStartedAt": "2026-07-19T18:39:54.745Z",
+    "crawlEndedAt": "2026-07-21T07:34:58.626Z",
+    "gitCommit": "63daf9d87128410ab4e29a807f07c660a23b4210",
+    "chromiumVersion": "149.0.7827.55",
+    "playwrightVersion": "1.61.1",
+    "totalSitesAttempted": 100,
+    "recordedAtCrawlTime": true,
+    "note": "From out/crawl-meta.json, written at crawl time."
+  },
+  "coverage": {
+    "totalSites": 100,
+    "homepagesLoaded": {
+      "count": 94,
+      "of": 100
+    },
+    "policiesFetched": {
+      "count": 84,
+      "of": 100
+    },
+    "failedSites": [
+      {
+        "name": "Zalando.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "N26.com",
+        "errors": [
+          "policy: page.goto: Download is starting\nCall log:\n\u001b[2m  - navigating to \"https://docs.n26.com/legal/06+EU/03+Privacy%20Policy/en/01privacy-policy-en.pdf\", waiting until"
+        ]
+      },
+      {
+        "name": "BlaBlaCar.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Disney+",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Wise.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Foodpanda",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Expedia.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Udemy.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "FutureLearn.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Calm.com",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "Allegro.pl",
+        "errors": [
+          "policy: too short — likely a consent wall or JS-gated"
+        ]
+      },
+      {
+        "name": "H&M.com",
+        "errors": [
+          "homepage: only 1 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero",
+          "policy: HTTP 403 — not fetched as policy text"
+        ]
+      },
+      {
+        "name": "Zara.com",
+        "errors": [
+          "homepage: only 1 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero",
+          "policy: page.goto: Download is starting\nCall log:\n\u001b[2m  - navigating to \"https://static.zara.net/static/pdfs/FR/privacy-policy/privacy-policy-en_FR-20250521.pdf\", waiti"
+        ]
+      },
+      {
+        "name": "Sephora.com",
+        "errors": [
+          "homepage: only 2 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero",
+          "policy: HTTP 403 — not fetched as policy text"
+        ]
+      },
+      {
+        "name": "ASOS.com",
+        "errors": [
+          "homepage: only 2 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero",
+          "policy: HTTP 403 — not fetched as policy text"
+        ]
+      },
+      {
+        "name": "Douglas.de",
+        "errors": [
+          "homepage: only 2 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero",
+          "policy: HTTP 403 — not fetched as policy text"
+        ]
+      },
+      {
+        "name": "EasyJet.com",
+        "errors": [
+          "homepage: only 2 request(s) after settle — page likely didn't render (bot detection or a blocking interstitial), not measured as a genuine zero"
+        ]
+      }
+    ],
+    "provenance": "measured"
+  },
+  "distributions": {
+    "thirdPartyCount": {
+      "n": 94,
+      "min": 0,
+      "p25": 3,
+      "median": 5,
+      "p75": 7,
+      "max": 45,
+      "stdDev": 7.12,
+      "histogram": [
+        {
+          "rangeLabel": "0–5.6",
+          "min": 0,
+          "max": 5.6,
+          "count": 52
+        },
+        {
+          "rangeLabel": "5.6–11.3",
+          "min": 5.6,
+          "max": 11.3,
+          "count": 34
+        },
+        {
+          "rangeLabel": "11.3–16.9",
+          "min": 11.3,
+          "max": 16.9,
+          "count": 3
+        },
+        {
+          "rangeLabel": "16.9–22.5",
+          "min": 16.9,
+          "max": 22.5,
+          "count": 2
+        },
+        {
+          "rangeLabel": "22.5–28.1",
+          "min": 22.5,
+          "max": 28.1,
+          "count": 0
+        },
+        {
+          "rangeLabel": "28.1–33.8",
+          "min": 28.1,
+          "max": 33.8,
+          "count": 1
+        },
+        {
+          "rangeLabel": "33.8–39.4",
+          "min": 33.8,
+          "max": 39.4,
+          "count": 0
+        },
+        {
+          "rangeLabel": "39.4–45",
+          "min": 39.4,
+          "max": 45,
+          "count": 2
+        }
+      ],
+      "provenance": "measured"
+    },
+    "policyWordCount": {
+      "n": 84,
+      "min": 31,
+      "p25": 3046,
+      "median": 5769.5,
+      "p75": 9249.5,
+      "max": 17726,
+      "stdDev": 4572.73,
+      "histogram": [
+        {
+          "rangeLabel": "31–2242.9",
+          "min": 31,
+          "max": 2242.9,
+          "count": 17
+        },
+        {
+          "rangeLabel": "2242.9–4454.8",
+          "min": 2242.9,
+          "max": 4454.8,
+          "count": 11
+        },
+        {
+          "rangeLabel": "4454.8–6666.6",
+          "min": 4454.8,
+          "max": 6666.6,
+          "count": 18
+        },
+        {
+          "rangeLabel": "6666.6–8878.5",
+          "min": 6666.6,
+          "max": 8878.5,
+          "count": 14
+        },
+        {
+          "rangeLabel": "8878.5–11090.4",
+          "min": 8878.5,
+          "max": 11090.4,
+          "count": 12
+        },
+        {
+          "rangeLabel": "11090.4–13302.3",
+          "min": 11090.4,
+          "max": 13302.3,
+          "count": 2
+        },
+        {
+          "rangeLabel": "13302.3–15514.1",
+          "min": 13302.3,
+          "max": 15514.1,
+          "count": 7
+        },
+        {
+          "rangeLabel": "15514.1–17726",
+          "min": 15514.1,
+          "max": 17726,
+          "count": 3
+        }
+      ],
+      "provenance": "measured"
+    },
+    "gdprOverallScore": {
+      "n": 89,
+      "min": 5.86,
+      "p25": 7,
+      "median": 7.64,
+      "p75": 8.07,
+      "max": 9.07,
+      "stdDev": 0.72,
+      "histogram": [
+        {
+          "rangeLabel": "5.9–6.3",
+          "min": 5.9,
+          "max": 6.3,
+          "count": 6
+        },
+        {
+          "rangeLabel": "6.3–6.7",
+          "min": 6.3,
+          "max": 6.7,
+          "count": 3
+        },
+        {
+          "rangeLabel": "6.7–7.1",
+          "min": 6.7,
+          "max": 7.1,
+          "count": 16
+        },
+        {
+          "rangeLabel": "7.1–7.5",
+          "min": 7.1,
+          "max": 7.5,
+          "count": 15
+        },
+        {
+          "rangeLabel": "7.5–7.9",
+          "min": 7.5,
+          "max": 7.9,
+          "count": 17
+        },
+        {
+          "rangeLabel": "7.9–8.3",
+          "min": 7.9,
+          "max": 8.3,
+          "count": 17
+        },
+        {
+          "rangeLabel": "8.3–8.7",
+          "min": 8.3,
+          "max": 8.7,
+          "count": 10
+        },
+        {
+          "rangeLabel": "8.7–9.1",
+          "min": 8.7,
+          "max": 9.1,
+          "count": 5
+        }
+      ],
+      "provenance": "reviewed"
+    },
+    "policyReadingTime": {
+      "uniquePolicyCount": 77,
+      "of": 84,
+      "duplicatesCollapsed": 7,
+      "wordsPerMinute": 230,
+      "medianMinutes": 24.7,
+      "meanMinutes": 27.5,
+      "totalHoursToReadAllOnce": 35.3,
+      "provenance": "measured"
+    }
+  },
+  "principles": [
+    {
+      "principle": "lawfulness",
+      "n": 89,
+      "mean": 8.12,
+      "median": 8,
+      "min": 5,
+      "max": 10,
+      "countBelow7": 6,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "purposeLimitation",
+      "n": 89,
+      "mean": 7.92,
+      "median": 8,
+      "min": 6,
+      "max": 9,
+      "countBelow7": 6,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "dataMinimisation",
+      "n": 89,
+      "mean": 7.15,
+      "median": 7,
+      "min": 5,
+      "max": 10,
+      "countBelow7": 26,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "accuracy",
+      "n": 89,
+      "mean": 6.63,
+      "median": 7,
+      "min": 4,
+      "max": 8.5,
+      "countBelow7": 43,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "storageLimitation",
+      "n": 89,
+      "mean": 7.17,
+      "median": 7,
+      "min": 5,
+      "max": 9,
+      "countBelow7": 30,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "integrity",
+      "n": 89,
+      "mean": 7.92,
+      "median": 8,
+      "min": 5,
+      "max": 10,
+      "countBelow7": 8,
+      "provenance": "reviewed"
+    },
+    {
+      "principle": "accountability",
+      "n": 89,
+      "mean": 7.86,
+      "median": 8,
+      "min": 4,
+      "max": 10,
+      "countBelow7": 21,
+      "provenance": "reviewed"
+    }
+  ],
+  "concentration": {
+    "topDomainsBySites": [
+      {
+        "domain": "googletagmanager.com",
+        "sites": 38,
+        "pctOfSites": 40
+      },
+      {
+        "domain": "gstatic.com",
+        "sites": 26,
+        "pctOfSites": 28
+      },
+      {
+        "domain": "google.com",
+        "sites": 25,
+        "pctOfSites": 27
+      },
+      {
+        "domain": "cookielaw.org",
+        "sites": 23,
+        "pctOfSites": 24
+      },
+      {
+        "domain": "onetrust.com",
+        "sites": 20,
+        "pctOfSites": 21
+      },
+      {
+        "domain": "googlesyndication.com",
+        "sites": 15,
+        "pctOfSites": 16
+      },
+      {
+        "domain": "google-analytics.com",
+        "sites": 14,
+        "pctOfSites": 15
+      },
+      {
+        "domain": "googleapis.com",
+        "sites": 12,
+        "pctOfSites": 13
+      },
+      {
+        "domain": "cloudfront.net",
+        "sites": 11,
+        "pctOfSites": 12
+      },
+      {
+        "domain": "doubleclick.net",
+        "sites": 10,
+        "pctOfSites": 11
+      },
+      {
+        "domain": "sentry.io",
+        "sites": 10,
+        "pctOfSites": 11
+      },
+      {
+        "domain": "ctfassets.net",
+        "sites": 7,
+        "pctOfSites": 7
+      },
+      {
+        "domain": "cloudflareinsights.com",
+        "sites": 6,
+        "pctOfSites": 6
+      },
+      {
+        "domain": "amazon-adsystem.com",
+        "sites": 5,
+        "pctOfSites": 5
+      },
+      {
+        "domain": "amazonaws.com",
+        "sites": 5,
+        "pctOfSites": 5
+      },
+      {
+        "domain": "scorecardresearch.com",
+        "sites": 4,
+        "pctOfSites": 4
+      },
+      {
+        "domain": "youtube.com",
+        "sites": 4,
+        "pctOfSites": 4
+      },
+      {
+        "domain": "cdn-apple.com",
+        "sites": 4,
+        "pctOfSites": 4
+      },
+      {
+        "domain": "unpkg.com",
+        "sites": 4,
+        "pctOfSites": 4
+      },
+      {
+        "domain": "cookiebot.com",
+        "sites": 4,
+        "pctOfSites": 4
+      },
+      {
+        "domain": "adnxs.com",
+        "sites": 3,
+        "pctOfSites": 3
+      },
+      {
+        "domain": "awswaf.com",
+        "sites": 3,
+        "pctOfSites": 3
+      },
+      {
+        "domain": "connatix.com",
+        "sites": 3,
+        "pctOfSites": 3
+      },
+      {
+        "domain": "demdex.net",
+        "sites": 3,
+        "pctOfSites": 3
+      },
+      {
+        "domain": "mookie1.com",
+        "sites": 3,
+        "pctOfSites": 3
+      }
+    ],
+    "parentCompanies": {
+      "totalDomainObservations": 594,
+      "companies": [
+        {
+          "company": "Google/Alphabet",
+          "occurrences": 146,
+          "pctOfObservations": 24.6
+        },
+        {
+          "company": "OneTrust",
+          "occurrences": 43,
+          "pctOfObservations": 7.2
+        },
+        {
+          "company": "Amazon",
+          "occurrences": 21,
+          "pctOfObservations": 3.5
+        },
+        {
+          "company": "Meta",
+          "occurrences": 5,
+          "pctOfObservations": 0.8
+        },
+        {
+          "company": "Microsoft",
+          "occurrences": 5,
+          "pctOfObservations": 0.8
+        }
+      ],
+      "note": "\"Share of requests\" isn't literally available — crawl.ts records which distinct third-party domains a page touched, not a per-domain request tally. This is share of (site, domain) observations across the corpus instead, which is the closest honest proxy. Only Google/Alphabet, Meta, Amazon, Microsoft, and OneTrust are grouped (five, per the domains actually named); everything else counts toward the total but isn't attributed to a company."
+    },
+    "provenance": "measured"
+  },
+  "consent": {
+    "cmpBreakdown": [
+      {
+        "name": "OneTrust",
+        "count": 26,
+        "pctOfSites": 27.7
+      },
+      {
+        "name": "Sourcepoint",
+        "count": 5,
+        "pctOfSites": 5.3
+      },
+      {
+        "name": "Cookiebot",
+        "count": 4,
+        "pctOfSites": 4.3
+      },
+      {
+        "name": "Usercentrics",
+        "count": 2,
+        "pctOfSites": 2.1
+      },
+      {
+        "name": "Osano",
+        "count": 1,
+        "pctOfSites": 1.1
+      }
+    ],
+    "tcfApi": {
+      "count": 13,
+      "of": 94,
+      "pct": 13.8
+    },
+    "gpp": {
+      "count": 2,
+      "of": 94,
+      "pct": 2.1
+    },
+    "rejectAll": {
+      "yes": 27,
+      "no": 67,
+      "unmeasured": 6,
+      "of": 94
+    },
+    "cookiesBeforeConsent": {
+      "n": 94,
+      "min": 0,
+      "p25": 3,
+      "median": 6,
+      "p75": 10.75,
+      "max": 36,
+      "stdDev": 6.55,
+      "histogram": [
+        {
+          "rangeLabel": "0–4.5",
+          "min": 0,
+          "max": 4.5,
+          "count": 39
+        },
+        {
+          "rangeLabel": "4.5–9",
+          "min": 4.5,
+          "max": 9,
+          "count": 26
+        },
+        {
+          "rangeLabel": "9–13.5",
+          "min": 9,
+          "max": 13.5,
+          "count": 19
+        },
+        {
+          "rangeLabel": "13.5–18",
+          "min": 13.5,
+          "max": 18,
+          "count": 4
+        },
+        {
+          "rangeLabel": "18–22.5",
+          "min": 18,
+          "max": 22.5,
+          "count": 2
+        },
+        {
+          "rangeLabel": "22.5–27",
+          "min": 22.5,
+          "max": 27,
+          "count": 1
+        },
+        {
+          "rangeLabel": "27–31.5",
+          "min": 27,
+          "max": 31.5,
+          "count": 1
+        },
+        {
+          "rangeLabel": "31.5–36",
+          "min": 31.5,
+          "max": 36,
+          "count": 2
+        }
+      ],
+      "provenance": "measured"
+    },
+    "provenance": "measured"
+  },
+  "correlations": {
+    "scoreVsThirdPartyCount": {
+      "r": 0.05,
+      "n": 90,
+      "interpretation": "GDPR score vs. third-party count: r=0.05 (n=90) — no meaningful relationship."
+    },
+    "scoreVsCookiesBeforeConsent": {
+      "r": 0.04,
+      "n": 90,
+      "interpretation": "GDPR score vs. cookies before consent: r=0.04 (n=90) — no meaningful relationship."
+    },
+    "scoreVsHasRejectAll": {
+      "r": -0.14,
+      "n": 90,
+      "interpretation": "GDPR score vs. has first-layer reject-all (1=yes, 0=no): r=-0.14 (n=90) — no meaningful relationship."
+    },
+    "provenance": "reviewed+measured",
+    "summary": "Across all three measured behaviours tested, written policy quality shows no meaningful correlation with what a site actually does on the page. A high-scoring policy is not evidence of fewer trackers, less pre-consent cookie-setting, or a working reject-all control in this sample."
+  },
+  "extremes": {
+    "byGdprScore": {
+      "best5": [
+        {
+          "name": "YAZIO.com",
+          "score": 9.07
+        },
+        {
+          "name": "Uber.com",
+          "score": 8.86
+        },
+        {
+          "name": "Uber Eats",
+          "score": 8.86
+        },
+        {
+          "name": "Apple TV+",
+          "score": 8.79
+        },
+        {
+          "name": "Apple Music",
+          "score": 8.79
+        }
+      ],
+      "worst5": [
+        {
+          "name": "Facebook.com",
+          "score": 5.86
+        },
+        {
+          "name": "YouTube Music",
+          "score": 6
+        },
+        {
+          "name": "YouTube.com",
+          "score": 6
+        },
+        {
+          "name": "Telegram.org",
+          "score": 6.07
+        },
+        {
+          "name": "Google Pay",
+          "score": 6.21
+        }
+      ],
+      "n": 96,
+      "provenance": "reviewed"
+    },
+    "byTrackerCount": {
+      "fewest5": [
+        {
+          "name": "BlaBlaCar.com",
+          "thirdPartyCount": 0
+        },
+        {
+          "name": "Telegram.org",
+          "thirdPartyCount": 0
+        },
+        {
+          "name": "Signal.org",
+          "thirdPartyCount": 0
+        },
+        {
+          "name": "Apple TV+",
+          "thirdPartyCount": 0
+        },
+        {
+          "name": "Apple Music",
+          "thirdPartyCount": 0
+        }
+      ],
+      "most5": [
+        {
+          "name": "Amazon (EU domains)",
+          "thirdPartyCount": 45
+        },
+        {
+          "name": "Amazon Prime Video",
+          "thirdPartyCount": 42
+        },
+        {
+          "name": "Euronews.com",
+          "thirdPartyCount": 29
+        },
+        {
+          "name": "SoundCloud.com",
+          "thirdPartyCount": 19
+        },
+        {
+          "name": "Wire.com",
+          "thirdPartyCount": 18
+        }
+      ],
+      "n": 94,
+      "provenance": "measured"
+    }
+  },
+  "charts": {
+    "policyWordCount": {
+      "n": 84,
+      "buckets": [
+        {
+          "rangeLabel": "31–2242.9",
+          "count": 17
+        },
+        {
+          "rangeLabel": "2242.9–4454.8",
+          "count": 11
+        },
+        {
+          "rangeLabel": "4454.8–6666.6",
+          "count": 18
+        },
+        {
+          "rangeLabel": "6666.6–8878.5",
+          "count": 14
+        },
+        {
+          "rangeLabel": "8878.5–11090.4",
+          "count": 12
+        },
+        {
+          "rangeLabel": "11090.4–13302.3",
+          "count": 2
+        },
+        {
+          "rangeLabel": "13302.3–15514.1",
+          "count": 7
+        },
+        {
+          "rangeLabel": "15514.1–17726",
+          "count": 3
+        }
+      ],
+      "median": 5769.5,
+      "p75": 9249.5,
+      "provenance": "measured"
+    },
+    "thirdPartyCount": {
+      "n": 94,
+      "linearBuckets": [
+        {
+          "rangeLabel": "0–5.6",
+          "count": 52
+        },
+        {
+          "rangeLabel": "5.6–11.3",
+          "count": 34
+        },
+        {
+          "rangeLabel": "11.3–16.9",
+          "count": 3
+        },
+        {
+          "rangeLabel": "16.9–22.5",
+          "count": 2
+        },
+        {
+          "rangeLabel": "22.5–28.1",
+          "count": 0
+        },
+        {
+          "rangeLabel": "28.1–33.8",
+          "count": 1
+        },
+        {
+          "rangeLabel": "33.8–39.4",
+          "count": 0
+        },
+        {
+          "rangeLabel": "39.4–45",
+          "count": 2
+        }
+      ],
+      "groupedBuckets": [
+        {
+          "rangeLabel": "0",
+          "count": 7
+        },
+        {
+          "rangeLabel": "1–5",
+          "count": 45
+        },
+        {
+          "rangeLabel": "6–10",
+          "count": 32
+        },
+        {
+          "rangeLabel": "11–20",
+          "count": 7
+        },
+        {
+          "rangeLabel": "21+",
+          "count": 3
+        }
+      ],
+      "median": 5,
+      "p75": 7,
+      "note": "Highly skewed: median 5, max 45. The 8 linear buckets compress most sites into the lowest one or two; groupedBuckets (0, 1–5, 6–10, 11–20, 21+) is a log-friendlier view of the same underlying values.",
+      "provenance": "measured"
+    },
+    "gdprPrinciples": {
+      "n": 7,
+      "provenance": "reviewed",
+      "items": [
+        {
+          "principle": "lawfulness",
+          "mean": 8.123595505617978,
+          "median": 8,
+          "belowSeven": 6,
+          "n": 89
+        },
+        {
+          "principle": "purposeLimitation",
+          "mean": 7.915730337078652,
+          "median": 8,
+          "belowSeven": 6,
+          "n": 89
+        },
+        {
+          "principle": "integrity",
+          "mean": 7.915730337078652,
+          "median": 8,
+          "belowSeven": 8,
+          "n": 89
+        },
+        {
+          "principle": "accountability",
+          "mean": 7.859550561797753,
+          "median": 8,
+          "belowSeven": 21,
+          "n": 89
+        },
+        {
+          "principle": "storageLimitation",
+          "mean": 7.174157303370786,
+          "median": 7,
+          "belowSeven": 30,
+          "n": 89
+        },
+        {
+          "principle": "dataMinimisation",
+          "mean": 7.146067415730337,
+          "median": 7,
+          "belowSeven": 26,
+          "n": 89
+        },
+        {
+          "principle": "accuracy",
+          "mean": 6.629213483146067,
+          "median": 7,
+          "belowSeven": 43,
+          "n": 89
+        }
+      ]
+    },
+    "thirdPartyConcentrationTop15": {
+      "n": 15,
+      "of": 94,
+      "provenance": "measured",
+      "items": [
+        {
+          "domain": "googletagmanager.com",
+          "sites": 38,
+          "pctOfSites": 40,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "gstatic.com",
+          "sites": 26,
+          "pctOfSites": 28,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "google.com",
+          "sites": 25,
+          "pctOfSites": 27,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "cookielaw.org",
+          "sites": 23,
+          "pctOfSites": 24,
+          "parentCompany": "OneTrust"
+        },
+        {
+          "domain": "onetrust.com",
+          "sites": 20,
+          "pctOfSites": 21,
+          "parentCompany": "OneTrust"
+        },
+        {
+          "domain": "googlesyndication.com",
+          "sites": 15,
+          "pctOfSites": 16,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "google-analytics.com",
+          "sites": 14,
+          "pctOfSites": 15,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "googleapis.com",
+          "sites": 12,
+          "pctOfSites": 13,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "cloudfront.net",
+          "sites": 11,
+          "pctOfSites": 12,
+          "parentCompany": "Amazon"
+        },
+        {
+          "domain": "doubleclick.net",
+          "sites": 10,
+          "pctOfSites": 11,
+          "parentCompany": "Google/Alphabet"
+        },
+        {
+          "domain": "sentry.io",
+          "sites": 10,
+          "pctOfSites": 11,
+          "parentCompany": null
+        },
+        {
+          "domain": "ctfassets.net",
+          "sites": 7,
+          "pctOfSites": 7,
+          "parentCompany": null
+        },
+        {
+          "domain": "cloudflareinsights.com",
+          "sites": 6,
+          "pctOfSites": 6,
+          "parentCompany": null
+        },
+        {
+          "domain": "amazon-adsystem.com",
+          "sites": 5,
+          "pctOfSites": 5,
+          "parentCompany": "Amazon"
+        },
+        {
+          "domain": "amazonaws.com",
+          "sites": 5,
+          "pctOfSites": 5,
+          "parentCompany": "Amazon"
+        }
+      ]
+    }
+  }
+}
